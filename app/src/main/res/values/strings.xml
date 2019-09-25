@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Atividade1</string>
+    <string name="escolha_a_opera_o">Escolha a operação:</string>
+    <string name="circulo">Circulo</string>
+    <string name="trinagulo">Trinagulo</string>
+    <string name="quadrado">Quadrado</string>
+    <string name="avan_ar">Avançar</string>
+    <string name="title_activity_circulo">Circulo</string>
+    <string name="raio">Raio:</string>
+    <string name="informe_os_dados_do_circulo">Informe os dados do circulo:</string>
+    <string name="numero_10">Ex: 10</string>
+    <string name="base">Base:</string>
+    <string name="altura">Altura:</string>
+    <string name="informe_os_dados_do_quadrado">Informe os dados do quadrado:</string>
+    <string name="rea_5cm">Área: 5cm²</string>
+
+</resources>
